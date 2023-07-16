@@ -1,5 +1,6 @@
 {
     "task.allowAutomaticTasks": "off",
     "python.linting.pylintEnabled": true,
-    "python.linting.enabled": true
+    "python.linting.enabled": true,
+    "terminal.integrated.enablePersistentSessions": false
 }
