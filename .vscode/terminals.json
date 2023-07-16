@@ -1,0 +1,17 @@
+{
+    "autorun": true,
+    "autokill": true,
+    "terminals": [
+        {
+            "name": "cmd (.mamba)",
+            "description": "To run '.mamba' on startup",
+            "open": true,
+            "focus": false,
+            "commands": [
+                "mamba activate ./.mamba",
+                "git pull",
+                "pip install -r requirements.txt"
+            ]
+        }
+    ]
+}
