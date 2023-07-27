@@ -1,0 +1,8 @@
+logic of embedding plotly to tableau
+?showlink=false
+webgl -> render_mode=svg
+TODO: add aggreg global var
+
+1443 --> w4 ramadan aggreg, decreases at end
+add cancellation date logic
+tableau
